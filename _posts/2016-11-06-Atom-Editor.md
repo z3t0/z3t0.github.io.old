@@ -14,4 +14,4 @@ Here's a Screenshot of me writing this post!
 I am currently playing around with the numerous packages available and will soon post about some recommended ones!
 
 [1]: https://atom.io/
-[2]: ../images/res/atom_screenshot.png
+[2]: /images/res/atom_screenshot.png
