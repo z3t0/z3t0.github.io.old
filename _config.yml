@@ -1,18 +1,16 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
-# google_analytics: 'UA-XXXXXX-X'
+title: Rafi Khan
+description: 'Just another blog'
+url: 'http://z3t0.github.io'
+baseurl: '/'
+google_analytics: 'UA-60577106-3'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Rafi Khan'
+  email: zetoslab@gmail.com
+  twitter_username: Z3T0_rk
+  github_username:  z3t0
 
 defaults:
   -
