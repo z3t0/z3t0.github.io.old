@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Testing out Github's Atom editor
+tags: [editor, atom]
 ---
 
 I've been spending a lot of time just trying out a lot of really cool applications, and have pretty much left vim behind. Although, vim is an amazing text editor it really is not meant to be a lot more. To be fair, there are several plugins that make it do a lot more, such as vim-figutive and nerdtree. But ultimately these are just awkward implementations that try to add features that really do not belong there.
