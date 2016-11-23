@@ -1,5 +1,6 @@
 ---
 title: Twitter Wall
+comments: true
 categories: [projects]
 tags: [twitter, node]
 ---
