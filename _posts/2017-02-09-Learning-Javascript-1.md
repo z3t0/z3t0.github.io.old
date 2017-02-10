@@ -3,9 +3,6 @@ title:  Learning Javascript Lesson 1
 tags: [coding club]
 ---
 
-
-## Learning Javascript Lesson 1
-
 Today we will be learning some basic features of the programming language Javascript. So far we've been independently working away with CodeAcademy, so treat today's lesson as a summary to make sure you understand some important concepts.
 
 To begin create an account at [JSFiddle](jsfiddle.net) and then copy the following code into a new JSFiddle project. **If** you want an extra challenge than feel free to type out the code instead of copying it, practice makes perfect after all.
