@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 title:  Learning Javascript Lesson 1
 tags: [coding club]
 ---
