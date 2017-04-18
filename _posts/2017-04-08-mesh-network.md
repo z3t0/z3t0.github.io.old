@@ -1,6 +1,5 @@
 ---
 title: "Mesh Network"
-categories: [projects]
 tags: [coding club, projects]
 ---
 
