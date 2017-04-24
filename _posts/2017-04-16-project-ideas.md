@@ -31,5 +31,5 @@ Here I will be documenting new ideas for projects as I my brain lights up in dif
 # Git tools
 - [ ] write a better devscout ... its filled with bugs and im pretty sure its built on electron so!
 
-# Othere
+# Other
 - [ ] Write up a philosophical document, refer to suckless but you know maybe make the philosophy suckless than suckless' ... see what I did there?
