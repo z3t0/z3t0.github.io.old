@@ -24,7 +24,6 @@ Here I will be documenting new ideas for projects as I my brain lights up in dif
 
 
 # Mac
-- [ ] port st to macosx
 - [ ] write a bunch of alternative applications that have non existent memory footprints to replace exising mac products eg Serial emulator
 - [ ] better package manager, brew is very slow
 
