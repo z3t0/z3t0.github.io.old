@@ -4,7 +4,6 @@ description: 'Just another blog'
 url: 'http://z3t0.github.io'
 baseurl: '/'
 google_analytics: 'UA-60577106-3'
-disqus_shortname: 'github-blog-4'
 
 author:
   name: 'Rafi Khan'
