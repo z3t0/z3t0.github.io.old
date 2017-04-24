@@ -20,7 +20,7 @@ Here I will be documenting new ideas for projects as I my brain lights up in dif
 # Robotics
 - [x] Mesh network
 - [x] simple path finding robot for BRRIT
-- [ ] Arduino-IRremote 3.0 rewrite
+- [ ] Arduino-IRremote 3.0 rewrite; [in progress](https://github.com/z3t0/Arduino-IRremote/tree/dev)
 
 
 # Mac
