@@ -1,0 +1,20 @@
+* My blog
+A personal blog where I write about technologies and software that I find interesting.
+
+
+* Future Posts [0/5]
+- [ ] [[https://github.com/z3t0/gamejam_2017][U of S Gamejam 2017]]
+- [ ] Blockchain / Ethereum / Blockstack
+- [ ] Spacemacs / Emacs
+- [ ] NodeJS
+- [ ] [[https://github.com/haxel-game/haxel-server][Haxel]]
+
+* General Todo [0/5]
+- [ ] Better mobile UI
+- [ ] more relevant background color
+- [ ] better tags system
+- [ ] search bar
+- [ ] comments systen (maybe and non-disqus based)
+
+* Contact me
+[[mailto:zetoslab@gmail.com][Rafi Khan]]
