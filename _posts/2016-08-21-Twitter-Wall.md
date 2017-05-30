@@ -2,7 +2,7 @@
 title: Twitter Wall
 comments: true
 categories: [projects]
-tags: [twitter, node]
+tags: [nodejs]
 ---
 
 Recently I have spent some time working on creating a simple twitter wall application using [Electron][1] as the front end, which is a nice framework that allows you to use web technologies to create desktop applications. The application also uses a nodejs [twitter][2] library which implements the official Twitter API which allows it to catch any tweets with specific keywords.
