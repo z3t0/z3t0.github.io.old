@@ -2,12 +2,13 @@
 A personal blog where I write about technologies and software that I find interesting.
 
 
-* Future Posts [0/5]
+* Future Posts [0/6]
 - [ ] [[https://github.com/z3t0/gamejam_2017][U of S Gamejam 2017]]
 - [ ] Blockchain / Ethereum / Blockstack
 - [ ] Spacemacs / Emacs
 - [ ] NodeJS
 - [ ] [[https://github.com/haxel-game/haxel-server][Haxel]]
+- [ ] nodejs error handling
 
 * General Todo [0/5]
 - [ ] Better mobile UI
